@@ -7,8 +7,8 @@ Small timing helpers (decorator + context manager).
 Install from source:
 
 ```bash
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/larsderidder/timing-utils.git
+cd timing-utils
 python -m venv .venv
 . .venv/bin/activate
 python -m pip install -U pip
